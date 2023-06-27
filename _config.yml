@@ -75,7 +75,7 @@ exclude:
   - vendor/ruby/
 
 # Contact settings
-formcarry: https://shop.zufan.me/about # add you formcarry endpoint url (see https://formcarry.com/documentation/getting-started)
+formcarry: https://shop.zufan.me/about/ # add you formcarry endpoint url (see https://formcarry.com/documentation/getting-started)
 
 # Social
 
