@@ -3,7 +3,7 @@ title: Yupy Store
 url: "https://shop.zufan.me" # the base hostname & protocol for your site, e.g. http://example.com, also used in jekyll-seo-tag
 baseurl: https://shop.zufan.me
 repo: https://shop.zufan.me
-google_analytics_key:
+google_analytics_key: G-QQXY7GSPT5
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
