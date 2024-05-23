@@ -49,7 +49,7 @@ defaults:
       layout: "default"
 
 jekyll-archives:
-  enabled:
+  disabled:
     - categories
 
 plugins:
